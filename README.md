@@ -28,7 +28,4 @@ I'm super interested in how AI can make wireless communication even cooler, espe
 </p>
 
 ## Personal Interests 
-
 I love chilling with my cat and outdoor walking. It's how I get my best ideas and solve bugs.
-
-<p>📫 Feel free to reach out if you're also applying to grad school — I'm always open to sharing ideas and collaborating on exciting projects!</p>
