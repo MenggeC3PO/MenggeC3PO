@@ -3,8 +3,8 @@
 Welcome to my GitHub profile!
 
 ## About Me 🎓
-As a final-year undergraduate with a passion for Electronics, AI, and signal processing, I am actively seeking to expand my horizons through a Master's program in Belgium or the Netherlands.
-I'm super interested in how AI can make wireless communication even cooler, especially when it comes to intergrated sensing and communication (ISAC) to innovate how we perceive and interact with the world.
+As a final-year undergraduate with a passion for Electronics, AI, and signal processing, I am actively seeking to expand my horizons through a Master's program in Europe.
+I'm super interested in how AI can make wireless communication even cooler, especially when it comes to how we perceive and interact with the world.
 
 ## What I'm Good At 💻
 - **Coding Skills**: Well-versed in C and Matlab, with practical experience in C++, Python, and HTML.
@@ -28,4 +28,4 @@ I'm super interested in how AI can make wireless communication even cooler, espe
 </p>
 
 ## Personal Interests 
-I love chilling with my cat and outdoor walking. It's how I get my best ideas and solve bugs.
+I love chilling with my cat, outdoor walking, and exploring diverse culture and food. It's how I get my best ideas and solve bugs.
