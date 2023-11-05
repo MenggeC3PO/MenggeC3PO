@@ -4,13 +4,13 @@ Welcome to my GitHub profile!
 
 ## About Me 🎓
 As a final-year undergraduate with a passion for Electronics, AI, and signal processing, I am actively seeking to expand my horizons through a Master's program in Belgium or the Netherlands.
-I'm super interested in how AI can make wireless communication even cooler, especially when it comes to intergrated sensing and communication (ISAC).
+I'm super interested in how AI can make wireless communication even cooler, especially when it comes to intergrated sensing and communication (ISAC) to innovate how we perceive and interact with the world.
 
 ## What I'm Good At 💻
-👩‍💻 Coding: Well-versed in C and Matlab, with practical experience in C++, Python, and HTML.
-🔧 Tools & Tech: Proficient with Arduino, STM32, DSP processors, and PCB design.
-📡 Communication: A solid understanding of wireless communication, signal processing, and both digital and analog electronics.
-<p>
+- **Coding Skills**: Well-versed in C and Matlab, with practical experience in C++, Python, and HTML.
+- **Hardware Savvy**: Proficient with Arduino, STM32, DSP processors, and PCB design.
+- **Wireless Communication**: A solid understanding of wireless communication, internet-of-things, signal processing, and both digital and analog electronics.
+<p align="center">
   <img alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img alt="Matlab" src="https://img.shields.io/badge/Matlab-%23E34F26.svg?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -18,6 +18,7 @@ I'm super interested in how AI can make wireless communication even cooler, espe
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img alt="STM32" src="https://img.shields.io/badge/STM32-%230072BC.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
   <img alt="Bluetooth" src="https://img.shields.io/badge/Bluetooth-%230095D5.svg?style=for-the-badge&logo=bluetooth&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -32,3 +33,5 @@ I love chilling with my cat and outdoor walking. It's how I get my best ideas an
 
 ---
 Hit me up if you're into tech or grad school, I'm always down to learn something new and team up with others!
+
+<p>📫 Feel free to reach out if you're also applying to grad school — I'm always open to sharing ideas and collaborating on exciting projects!</p>
