@@ -27,11 +27,8 @@ I'm super interested in how AI can make wireless communication even cooler, espe
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-## Personal Interests 😺⛰️
+## Personal Interests 
 
 I love chilling with my cat and outdoor walking. It's how I get my best ideas and solve bugs.
-
----
-Hit me up if you're into tech or grad school, I'm always down to learn something new and team up with others!
 
 <p>📫 Feel free to reach out if you're also applying to grad school — I'm always open to sharing ideas and collaborating on exciting projects!</p>
