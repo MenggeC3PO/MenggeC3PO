@@ -1,4 +1,4 @@
-# Hello, I'm Mengge Zhang 👋
+# Hello, I'm Mengge Zhang 
 
 Welcome to my GitHub profile!
 
